@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/reverse-linked-list/submissions/872677940/
 class ListNode {
   public:
     int val;
